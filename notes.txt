@@ -1,0 +1,11 @@
+node.end_lineno gives you where that function / while / for loop ends 
+
+node.lineno - gives you teh starting line 
+
+
+Recursion - ? 
+
+If else ?
+
+No nested loops for this release
+
