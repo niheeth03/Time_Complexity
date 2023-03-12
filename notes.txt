@@ -7,5 +7,7 @@ Recursion - ?
 
 If else ?
 
-No nested loops for this release
+Nested loops Check
+If else passes Check
+For loop Check
 
